@@ -1,4 +1,6 @@
-# Apple_Retail_Stores_Project
+![](https://github.com/saifuddin-midday/apple_project/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)
+
+# Apple Retail Sales SQL Project - Analyzing Millions of Sales Rows
 
 ## Project Overview
 
@@ -8,7 +10,7 @@ The project is ideal to showcase my advanced SQL skills by working with a large-
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD](https://github.com/saifuddin-midday/apple_project/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)
+![ERD](https://github.com/saifuddin-midday/apple_project/blob/main/ERD%20For%20DataBase.png)
 
 ---
 
