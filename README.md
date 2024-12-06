@@ -1,4 +1,4 @@
-# Apple_Advanced_SQL_Project
+# Apple_Retail_Stores_Project
 
 ## Project Overview
 
@@ -8,9 +8,7 @@ The project is ideal to showcase my advanced SQL skills by working with a large-
 
 ## Entity Relationship Diagram (ERD)
 
-![ERD]()
-
-Here’s the shortened and improved version of the "What’s Included" and "Why Choose This Project" sections, along with the link:
+![ERD](https://github.com/saifuddin-midday/apple_project/blob/main/Apple_Changsha_RetailTeamMembers_09012021_big.jpg.slideshow-xlarge_2x.jpg)
 
 ---
 
